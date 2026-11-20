@@ -1,5 +1,9 @@
 # THE WORLD TODAY — Thursday 19 November 2026
 
+![make.fun](https://make.fun/badge/news-image-20261119.svg)
+![Rank](https://make.fun/badge/news-image-20261119/wizzy-bounty/news-image-20261119/rank.svg)
+![Reward](https://make.fun/badge/news-image-20261119/wizzy-bounty/news-image-20261119/reward.svg)
+
 One front page that sums up 19 November 2026 in a single image:
 **"ONE DAY, ONE SKYLINE"** — a dusk skyline panorama of eight scenes
 from the day, above a numbered index of 36 stories across 6 continents
